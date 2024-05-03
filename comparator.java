@@ -1,0 +1,9 @@
+
+class friends {
+	
+}
+public class comparator {
+	public static void main(String[] args) {
+		
+	}
+}
